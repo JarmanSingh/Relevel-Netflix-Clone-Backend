@@ -1,6 +1,6 @@
-# Uber
+# Netflix
 
-We have cloned Uber backend.
+We have cloned netflix backend.
 
 # Steps to install the project:
 
